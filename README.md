@@ -1,5 +1,3 @@
-# DEVTERN TASK-1(Login authentication system)
-Building a Secure Login Authentication System with Flask and SQLite, ensuring the security of user data is paramount for any web application. One of the fundamental components of securing a web application is implementing a robust login authentication system. 
 
 
 
