@@ -4,6 +4,9 @@
 # DEVTERN   (Product landing page)
 Welcome to Scoops, where we scoop happiness into every bite! This vibrant and enticing landing page invites you to indulge in a world of delectable treats and delightful services.
 
+![Screenshot 2025-02-16 003857](https://github.com/user-attachments/assets/42fb4223-0112-409f-85e2-f9c1ea70704e)
+![Screenshot 2025-02-16 003927](https://github.com/user-attachments/assets/fec14d14-c04b-4f73-8561-3c155143cba2)
+
 
 
 # DEVTERN  (To-Do list )
